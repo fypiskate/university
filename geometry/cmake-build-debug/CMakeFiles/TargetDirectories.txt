@@ -1,0 +1,15 @@
+/home/katrin/CLionProjects/geometry/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/katrin/CLionProjects/geometry/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/katrin/CLionProjects/geometry/cmake-build-debug/CMakeFiles/distance.dir
+/home/katrin/CLionProjects/geometry/cmake-build-debug/CMakeFiles/kislota.dir
+/home/katrin/CLionProjects/geometry/cmake-build-debug/CMakeFiles/diameter.dir
+/home/katrin/CLionProjects/geometry/cmake-build-debug/CMakeFiles/rendev2.dir
+/home/katrin/CLionProjects/geometry/cmake-build-debug/CMakeFiles/tower.dir
+/home/katrin/CLionProjects/geometry/cmake-build-debug/CMakeFiles/triangulation.dir
+/home/katrin/CLionProjects/geometry/cmake-build-debug/CMakeFiles/square.dir
+/home/katrin/CLionProjects/geometry/cmake-build-debug/CMakeFiles/rendezvous.dir
+/home/katrin/CLionProjects/geometry/cmake-build-debug/CMakeFiles/hull.dir
+/home/katrin/CLionProjects/geometry/cmake-build-debug/CMakeFiles/inside.dir
+/home/katrin/CLionProjects/geometry/cmake-build-debug/CMakeFiles/area.dir
+/home/katrin/CLionProjects/geometry/cmake-build-debug/CMakeFiles/point.dir
+/home/katrin/CLionProjects/geometry/cmake-build-debug/CMakeFiles/aplusb.dir

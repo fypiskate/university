@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/geometry.dir/diameter.cpp.o CMakeFiles/geometry.dir/square.cpp.o  -o geometry 

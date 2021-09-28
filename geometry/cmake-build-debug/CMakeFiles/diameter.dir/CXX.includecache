@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/katrin/CLionProjects/geometry/diameter.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+cmath
+-
+set
+-
+

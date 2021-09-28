@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/katrin/CLionProjects/geometry/kislota.cpp
+iostream
+/home/katrin/CLionProjects/geometry/iostream
+vector
+/home/katrin/CLionProjects/geometry/vector
+

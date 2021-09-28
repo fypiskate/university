@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/katrin/CLionProjects/geometry/inter.cpp
+iostream
+-
+tests.h
+/home/katrin/CLionProjects/geometry/tests.h
+cstddef
+-
+gmpxx.h
+-
+
+/home/katrin/CLionProjects/geometry/tests.h
+utility
+-
+string
+-
+cassert
+-
+

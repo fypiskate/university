@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/inter.dir/inter.cpp.o  -o inter 

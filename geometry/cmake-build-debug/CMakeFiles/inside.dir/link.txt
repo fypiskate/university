@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/inside.dir/inside.cpp.o -o inside 

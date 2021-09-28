@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/area.dir/area.cpp.o -o area 

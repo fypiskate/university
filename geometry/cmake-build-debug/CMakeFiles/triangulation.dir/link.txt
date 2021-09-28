@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/triangulation.dir/triangulation.cpp.o -o triangulation 

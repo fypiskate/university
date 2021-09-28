@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/distance.dir/distance.cpp.o -o distance 

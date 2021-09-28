@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="geometry"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/katrin/CLionProjects/geometry/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/katrin/CLionProjects/geometry/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/katrin/CLionProjects/geometry/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="distance">
+				<Option output="/home/katrin/CLionProjects/geometry/cmake-build-debug/distance" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/katrin/CLionProjects/geometry/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 distance"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="distance/fast">
+				<Option output="/home/katrin/CLionProjects/geometry/cmake-build-debug/distance" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/katrin/CLionProjects/geometry/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 distance/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="kislota">
+				<Option output="/home/katrin/CLionProjects/geometry/cmake-build-debug/kislota" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/katrin/CLionProjects/geometry/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 kislota"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="kislota/fast">
+				<Option output="/home/katrin/CLionProjects/geometry/cmake-build-debug/kislota" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/katrin/CLionProjects/geometry/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 kislota/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="diameter">
+				<Option output="/home/katrin/CLionProjects/geometry/cmake-build-debug/diameter" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/katrin/CLionProjects/geometry/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 diameter"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="diameter/fast">
+				<Option output="/home/katrin/CLionProjects/geometry/cmake-build-debug/diameter" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/katrin/CLionProjects/geometry/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 diameter/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rendev2">
+				<Option output="/home/katrin/CLionProjects/geometry/cmake-build-debug/rendev2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/katrin/CLionProjects/geometry/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 rendev2"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rendev2/fast">
+				<Option output="/home/katrin/CLionProjects/geometry/cmake-build-debug/rendev2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/katrin/CLionProjects/geometry/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 rendev2/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tower">
+				<Option output="/home/katrin/CLionProjects/geometry/cmake-build-debug/tower" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/katrin/CLionProjects/geometry/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 tower"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="tower/fast">
+				<Option output="/home/katrin/CLionProjects/geometry/cmake-build-debug/tower" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/katrin/CLionProjects/geometry/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 tower/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="triangulation">
+				<Option output="/home/katrin/CLionProjects/geometry/cmake-build-debug/triangulation" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/katrin/CLionProjects/geometry/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 triangulation"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="triangulation/fast">
+				<Option output="/home/katrin/CLionProjects/geometry/cmake-build-debug/triangulation" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/katrin/CLionProjects/geometry/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 triangulation/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="square">
+				<Option output="/home/katrin/CLionProjects/geometry/cmake-build-debug/square" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/katrin/CLionProjects/geometry/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 square"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="square/fast">
+				<Option output="/home/katrin/CLionProjects/geometry/cmake-build-debug/square" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/katrin/CLionProjects/geometry/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 square/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rendezvous">
+				<Option output="/home/katrin/CLionProjects/geometry/cmake-build-debug/rendezvous" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/katrin/CLionProjects/geometry/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 rendezvous"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rendezvous/fast">
+				<Option output="/home/katrin/CLionProjects/geometry/cmake-build-debug/rendezvous" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/katrin/CLionProjects/geometry/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 rendezvous/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="hull">
+				<Option output="/home/katrin/CLionProjects/geometry/cmake-build-debug/hull" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/katrin/CLionProjects/geometry/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 hull"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="hull/fast">
+				<Option output="/home/katrin/CLionProjects/geometry/cmake-build-debug/hull" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/katrin/CLionProjects/geometry/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 hull/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="inside">
+				<Option output="/home/katrin/CLionProjects/geometry/cmake-build-debug/inside" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/katrin/CLionProjects/geometry/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 inside"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="inside/fast">
+				<Option output="/home/katrin/CLionProjects/geometry/cmake-build-debug/inside" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/katrin/CLionProjects/geometry/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 inside/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="area">
+				<Option output="/home/katrin/CLionProjects/geometry/cmake-build-debug/area" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/katrin/CLionProjects/geometry/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 area"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="area/fast">
+				<Option output="/home/katrin/CLionProjects/geometry/cmake-build-debug/area" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/katrin/CLionProjects/geometry/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 area/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="point">
+				<Option output="/home/katrin/CLionProjects/geometry/cmake-build-debug/point" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/katrin/CLionProjects/geometry/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 point"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="point/fast">
+				<Option output="/home/katrin/CLionProjects/geometry/cmake-build-debug/point" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/katrin/CLionProjects/geometry/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 point/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="aplusb">
+				<Option output="/home/katrin/CLionProjects/geometry/cmake-build-debug/aplusb" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/katrin/CLionProjects/geometry/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 aplusb"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="aplusb/fast">
+				<Option output="/home/katrin/CLionProjects/geometry/cmake-build-debug/aplusb" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/katrin/CLionProjects/geometry/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 aplusb/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/katrin/CLionProjects/geometry/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/katrin/CLionProjects/geometry/aplusb.cpp">
+			<Option target="aplusb"/>
+		</Unit>
+		<Unit filename="/home/katrin/CLionProjects/geometry/area.cpp">
+			<Option target="area"/>
+		</Unit>
+		<Unit filename="/home/katrin/CLionProjects/geometry/diameter.cpp">
+			<Option target="diameter"/>
+		</Unit>
+		<Unit filename="/home/katrin/CLionProjects/geometry/distance.cpp">
+			<Option target="distance"/>
+		</Unit>
+		<Unit filename="/home/katrin/CLionProjects/geometry/hull.cpp">
+			<Option target="hull"/>
+		</Unit>
+		<Unit filename="/home/katrin/CLionProjects/geometry/inside.cpp">
+			<Option target="inside"/>
+		</Unit>
+		<Unit filename="/home/katrin/CLionProjects/geometry/kislota.cpp">
+			<Option target="kislota"/>
+		</Unit>
+		<Unit filename="/home/katrin/CLionProjects/geometry/point.cpp">
+			<Option target="point"/>
+		</Unit>
+		<Unit filename="/home/katrin/CLionProjects/geometry/rendev2.cpp">
+			<Option target="rendev2"/>
+		</Unit>
+		<Unit filename="/home/katrin/CLionProjects/geometry/rendezvous.cpp">
+			<Option target="rendezvous"/>
+		</Unit>
+		<Unit filename="/home/katrin/CLionProjects/geometry/square.cpp">
+			<Option target="square"/>
+		</Unit>
+		<Unit filename="/home/katrin/CLionProjects/geometry/tower.cpp">
+			<Option target="tower"/>
+		</Unit>
+		<Unit filename="/home/katrin/CLionProjects/geometry/triangulation.cpp">
+			<Option target="triangulation"/>
+		</Unit>
+		<Unit filename="/home/katrin/CLionProjects/geometry/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/aplusb.dir/aplusb.cpp.o -o aplusb 

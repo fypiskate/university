@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/kislota.dir/kislota.cpp.o -o kislota 
